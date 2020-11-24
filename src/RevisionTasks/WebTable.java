@@ -21,7 +21,6 @@ public class WebTable extends Base{
 	navigate.to("https://www.javatpoint.com/selenium-webdriver-navigation-commands");
 	Thread.sleep(2000);
 	navigate.back();
-	Thread.sleep(2000);
 	quitBrowser();
 	
 	
